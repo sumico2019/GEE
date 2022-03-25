@@ -14,4 +14,6 @@
 # 05=Thermal hotspots
 # 06=教師なし分類
 # 06=Unsupervised Classification
+# 07=教師付き分類
+# 07=Supervised Classification
 ---
