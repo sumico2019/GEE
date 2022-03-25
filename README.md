@@ -1,3 +1,2 @@
-# GEE
-# Global Earth Engineの入門教材です。 
-# This is an introductory material for the Global Earth Engine. 
+# 各フォルダには、Global Earth Engineに関するコード＋資料があります。
+# Each folder contains code + documentation about the Global Earth Engine.
