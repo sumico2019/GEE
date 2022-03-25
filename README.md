@@ -1,7 +1,7 @@
 # 各フォルダには、Global Earth Engineに関するコード＋資料があります。
 # Each folder contains code + documentation about the Global Earth Engine.
-# 00=Google Earth Engineの使い方＋チュートリアル
-# 00=How to use Google Earth Engine＋Tutorials
+# 00=リモートセンシングの基礎＋Google Earth Engineの使い方＋チュートリアル
+# 00=Fundamentals of Remote Sensing＋How to use Google Earth Engine＋Tutorials
 # 01=データ読み込み→計算→TIFFとしてエキスポート＋Earth Engineから画像、マップタイル、表、動画をGoogle Driveにエキスポート
 # 01=Read data → Calculate → Export as TIFF＋Export images, map tiles, tables, and videos from Earth Engine to Google Drive
 # 02=NO2データを取得→可視化→csvでエクスポート
