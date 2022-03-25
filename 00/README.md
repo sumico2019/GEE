@@ -8,7 +8,7 @@
 # Tutorials (https://developers.google.com/earth-engine/tutorials/tutorials)
 ![image](https://user-images.githubusercontent.com/87138262/160031129-5fa800f3-2620-4caa-bed7-55d9f111afef.png)
 ---
-# Video tutorials (https://developers.google.com/earth-engine/tutorials/videos)
 # ビデオチュートリアル (https://developers.google.com/earth-engine/tutorials/videos)
+# Video tutorials (https://developers.google.com/earth-engine/tutorials/videos)
 ![image](https://user-images.githubusercontent.com/87138262/160031440-435d20de-f0bc-4cd3-af6b-1f734a0c2eae.png)
 ---
