@@ -12,4 +12,6 @@
 # 04=Statistics of Image Regions
 # 05=サーマル・ホットスポット
 # 05=Thermal hotspots
+# 06=教師なし分類
+# 06=Unsupervised Classification
 ---
