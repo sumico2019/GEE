@@ -1,14 +1,13 @@
-# Step0: Google Earth Engineの使い方
-# Step0: How to use Google Earth Engine
-# Step1: Google Earth Engineで解析をするには、Googleのアカウントが必要です。 まだアカウントを持っていない人は作成してください。
-# Step1: A Google account is required to perform analysis with Google Earth Engine. If you do not yet have an account, please create one.
-# Step2: Google Earth Engineに登録 このサイト(https://earthengine.google.com/)にアクセス→右上のSIGN UPをクリック
-# Step2: Register for Google Earth Engine Access this site (https://earthengine.google.com/) → click on SIGN UP in the upper right corner
-# チュートリアル (https://developers.google.com/earth-engine/tutorials/tutorials)
-# Tutorials (https://developers.google.com/earth-engine/tutorials/tutorials)
-![image](https://user-images.githubusercontent.com/87138262/160031129-5fa800f3-2620-4caa-bed7-55d9f111afef.png)
+# データ読み込み→計算→TIFFとしてエキスポート
+# Read data → Calculate → Export as TIFF
+# Step0: 2019年と2020年のNO2データを読み込み、2019年と2020年のNO2差を計算し、データをGeoTIFFとしてエクスポートします。
+# Step0: Load NO2 data for 2019 and 2020, calculate NO2 difference between 2019 and 2020, and export data as GeoTIFF.
+![image](https://user-images.githubusercontent.com/87138262/160032620-60c6cc23-33ff-4624-9308-65d1b8dbc06e.png)
+# Step1: コードについては、ワードファイル(GEE1_NO2.docx)を参照してください。
+# Step1: See the word file (GEE1_NO2.docx) for code.
 ---
-# Video tutorials (https://developers.google.com/earth-engine/tutorials/videos)
-# ビデオチュートリアル (https://developers.google.com/earth-engine/tutorials/videos)
-![image](https://user-images.githubusercontent.com/87138262/160031440-435d20de-f0bc-4cd3-af6b-1f734a0c2eae.png)
+# Earth Engineから画像、マップタイル、表、動画をGoogle Driveにエキスポート
+# Export images, map tiles, tables, and videos from Earth Engine to Google Drive
+# Step0: コードについては、ワードファイル(GEE1_Export.docx)を参照してください。
+# Step0: See the word file (GEE1_Export.docx) for code.
 ---
