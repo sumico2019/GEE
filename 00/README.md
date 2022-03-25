@@ -1,5 +1,5 @@
-# Step0: Google Earth Engineの使い方
-# Step0: How to use Google Earth Engine
+# Google Earth Engineの使い方
+# How to use Google Earth Engine
 # Step1: Google Earth Engineで解析をするには、Googleのアカウントが必要です。 まだアカウントを持っていない人は作成してください。
 # Step1: A Google account is required to perform analysis with Google Earth Engine. If you do not yet have an account, please create one.
 # Step2: Google Earth Engineに登録 このサイト(https://earthengine.google.com/)にアクセス→右上のSIGN UPをクリック
