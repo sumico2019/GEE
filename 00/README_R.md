@@ -1,8 +1,5 @@
 # リモートセンシングの基礎
 # Fundamentals of Remote Sensing
-![image](https://user-images.githubusercontent.com/87138262/160070483-329525db-d617-4b7d-849e-a335ad62aa0a.png)
-![image](https://user-images.githubusercontent.com/87138262/160070551-c0f7655c-2694-4ee8-b9da-5f9260a7b886.png)
----
 ![image](https://user-images.githubusercontent.com/87138262/160070594-0f56907e-9633-43fe-9901-d665f3fd0cf2.png)
 ![image](https://user-images.githubusercontent.com/87138262/160070633-9f6c1e9d-45d1-4bd4-8eed-d8d07a3267fe.png)
 ---
@@ -74,12 +71,6 @@
 ---
 ![image](https://user-images.githubusercontent.com/87138262/160072658-3c6c977f-575e-46c3-bbfe-fdfeafa73557.png)
 ![image](https://user-images.githubusercontent.com/87138262/160072705-61da1b4c-4465-49d0-88b3-4ce5bfc9ba9d.png)
----
-![image](https://user-images.githubusercontent.com/87138262/160072742-bf1490b2-9311-4969-abf3-4ea6cbed68c6.png)
-![image](https://user-images.githubusercontent.com/87138262/160072809-d0d15d08-50b1-4165-83f1-cc9c3861d083.png)
----
-![image](https://user-images.githubusercontent.com/87138262/160072840-fc8841bc-9699-4fa4-a5d5-7146d8826cb8.png)
-![image](https://user-images.githubusercontent.com/87138262/160072865-ff2aef43-5442-4a23-a0e1-943e1743b3ef.png)
 ---
 ![image](https://user-images.githubusercontent.com/87138262/160072919-c4b09e1e-f729-458a-8bea-eb3ed0b13d72.png)
 ![image](https://user-images.githubusercontent.com/87138262/160072966-2244d3e6-bcc6-4401-a211-af9cf3121b89.png)
