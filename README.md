@@ -14,7 +14,7 @@
 # 05=Thermal hotspots
 # 06=教師なし分類
 # 06=Unsupervised Classification
-# 07=教師付き分類
+# 07=教師あり分類
 # 07=Supervised Classification
 # 08=ランダムフォレスト1 & 2
 # 08=Random Forest 1 & 2
