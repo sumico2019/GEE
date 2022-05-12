@@ -8,14 +8,12 @@
 # 02=NO2 data acquisition → visualization → export as csv
 # 03=年間森林損失量の算出と年間森林損失量のグラフ化
 # 03=Calculating Yearly Forest Loss and Charting Yearly Forest Loss.
-# 04=画像領域の統計量
-# 04=Statistics of Image Regions
-# 05=サーマル・ホットスポット
-# 05=Thermal hotspots
-# 06=教師なし分類
-# 06=Unsupervised Classification
-# 07=教師あり分類
-# 07=Supervised Classification
-# 08=ランダムフォレスト1 & 2
-# 08=Random Forest 1 & 2
+# 04=サーマル・ホットスポット
+# 04=Thermal hotspots
+# 05=教師なし分類
+# 05=Unsupervised Classification
+# 06=教師あり分類
+# 06=Supervised Classification
+# 07=ランダムフォレスト1 & 2
+# 07=Random Forest 1 & 2
 ---
